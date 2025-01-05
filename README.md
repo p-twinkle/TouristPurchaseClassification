@@ -1,4 +1,4 @@
-# EXPLORING TOURISM REPORT
+# Exploring Tourism
 
 ### GROUP Project: 
 - Shirley Liu
