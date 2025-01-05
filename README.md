@@ -1,6 +1,6 @@
 # Exploring Tourism
 
-### GROUP Project: 
+### Collaborators: 
 - Shirley Liu
 - Haden Loveridge
 - Aryan Pai
