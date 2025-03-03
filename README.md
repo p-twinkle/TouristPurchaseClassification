@@ -1,7 +1,7 @@
 # Exploring Tourism
 
 ### Collaborators: 
-- Shirley Liu
+- Shirley Liu 
 - Haden Loveridge
 - Aryan Pai
 - Twinkle Panda
